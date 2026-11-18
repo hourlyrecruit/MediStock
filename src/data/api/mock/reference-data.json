@@ -1,0 +1,30 @@
+{
+  "data": {
+    "categories": [
+      {
+        "name": "Analgesics"
+      },
+      {
+        "name": "Antibiotics"
+      },
+      {
+        "name": "Antidiabetics"
+      },
+      {
+        "name": "Cardiovascular"
+      },
+      {
+        "name": "Antihistamines"
+      },
+      {
+        "name": "Gastrointestinal"
+      },
+      {
+        "name": "Vitamins & Supplements"
+      },
+      {
+        "name": "Respiratory"
+      }
+    ]
+  }
+}

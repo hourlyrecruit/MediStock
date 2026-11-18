@@ -1,0 +1,285 @@
+{
+  "data": [
+    {
+      "id": "txn_01",
+      "medicineId": "med_12",
+      "batchId": "bat_21",
+      "type": "BATCH_CREATED",
+      "quantityChange": 180,
+      "date": "2026-05-14T07:16:00.000Z",
+      "quantityAfter": 180
+    },
+    {
+      "id": "txn_02",
+      "medicineId": "med_06",
+      "batchId": "bat_10",
+      "type": "BATCH_CREATED",
+      "quantityChange": 50,
+      "date": "2026-05-24T08:48:00.000Z",
+      "remarks": "Short-dated stock at discount",
+      "quantityAfter": 50
+    },
+    {
+      "id": "txn_03",
+      "medicineId": "med_08",
+      "batchId": "bat_14",
+      "type": "BATCH_CREATED",
+      "quantityChange": 300,
+      "date": "2026-05-24T10:30:00.000Z",
+      "quantityAfter": 300
+    },
+    {
+      "id": "txn_04",
+      "medicineId": "med_03",
+      "batchId": "bat_06",
+      "type": "BATCH_CREATED",
+      "quantityChange": 40,
+      "date": "2026-06-03T07:26:00.000Z",
+      "quantityAfter": 40
+    },
+    {
+      "id": "txn_05",
+      "medicineId": "med_11",
+      "batchId": "bat_19",
+      "type": "BATCH_CREATED",
+      "quantityChange": 200,
+      "date": "2026-06-13T04:42:00.000Z",
+      "quantityAfter": 200
+    },
+    {
+      "id": "txn_06",
+      "medicineId": "med_17",
+      "batchId": "bat_28",
+      "type": "BATCH_CREATED",
+      "quantityChange": 220,
+      "date": "2026-06-23T08:28:00.000Z",
+      "quantityAfter": 220
+    },
+    {
+      "id": "txn_07",
+      "medicineId": "med_01",
+      "batchId": "bat_03",
+      "type": "BATCH_CREATED",
+      "quantityChange": 200,
+      "date": "2026-07-03T07:50:00.000Z",
+      "remarks": "Monthly distributor order",
+      "quantityAfter": 200
+    },
+    {
+      "id": "txn_08",
+      "medicineId": "med_14",
+      "batchId": "bat_24",
+      "type": "BATCH_CREATED",
+      "quantityChange": 150,
+      "date": "2026-07-13T11:11:00.000Z",
+      "quantityAfter": 150
+    },
+    {
+      "id": "txn_09",
+      "medicineId": "med_08",
+      "batchId": "bat_14",
+      "type": "STOCK_IN",
+      "quantityChange": 150,
+      "date": "2026-07-23T07:03:00.000Z",
+      "quantityAfter": 450
+    },
+    {
+      "id": "txn_10",
+      "medicineId": "med_18",
+      "batchId": "bat_29",
+      "type": "BATCH_CREATED",
+      "quantityChange": 40,
+      "date": "2026-07-23T10:27:00.000Z",
+      "quantityAfter": 40
+    },
+    {
+      "id": "txn_11",
+      "medicineId": "med_05",
+      "batchId": "bat_09",
+      "type": "BATCH_CREATED",
+      "quantityChange": 150,
+      "date": "2026-08-02T04:17:00.000Z",
+      "quantityAfter": 150
+    },
+    {
+      "id": "txn_12",
+      "medicineId": "med_20",
+      "batchId": "bat_32",
+      "type": "BATCH_CREATED",
+      "quantityChange": 160,
+      "date": "2026-08-07T11:17:00.000Z",
+      "quantityAfter": 160
+    },
+    {
+      "id": "txn_13",
+      "medicineId": "med_07",
+      "batchId": "bat_12",
+      "type": "BATCH_CREATED",
+      "quantityChange": 120,
+      "date": "2026-08-17T07:10:00.000Z",
+      "quantityAfter": 120
+    },
+    {
+      "id": "txn_14",
+      "medicineId": "med_12",
+      "batchId": "bat_21",
+      "type": "STOCK_IN",
+      "quantityChange": 60,
+      "date": "2026-08-22T05:53:00.000Z",
+      "quantityAfter": 240
+    },
+    {
+      "id": "txn_15",
+      "medicineId": "med_21",
+      "batchId": "bat_33",
+      "type": "BATCH_CREATED",
+      "quantityChange": 40,
+      "date": "2026-08-27T06:56:00.000Z",
+      "quantityAfter": 40
+    },
+    {
+      "id": "txn_16",
+      "medicineId": "med_01",
+      "batchId": "bat_03",
+      "type": "STOCK_IN",
+      "quantityChange": 100,
+      "date": "2026-09-01T09:43:00.000Z",
+      "quantityAfter": 300
+    },
+    {
+      "id": "txn_17",
+      "medicineId": "med_23",
+      "batchId": "bat_36",
+      "type": "BATCH_CREATED",
+      "quantityChange": 60,
+      "date": "2026-09-06T12:15:00.000Z",
+      "quantityAfter": 60
+    },
+    {
+      "id": "txn_18",
+      "medicineId": "med_11",
+      "batchId": "bat_19",
+      "type": "STOCK_IN",
+      "quantityChange": 80,
+      "date": "2026-09-11T12:56:00.000Z",
+      "quantityAfter": 280
+    },
+    {
+      "id": "txn_19",
+      "medicineId": "med_08",
+      "batchId": "bat_15",
+      "type": "BATCH_CREATED",
+      "quantityChange": 250,
+      "date": "2026-09-16T12:39:00.000Z",
+      "quantityAfter": 250
+    },
+    {
+      "id": "txn_20",
+      "medicineId": "med_17",
+      "batchId": "bat_28",
+      "type": "STOCK_IN",
+      "quantityChange": 100,
+      "date": "2026-09-21T06:39:00.000Z",
+      "quantityAfter": 320
+    },
+    {
+      "id": "txn_21",
+      "medicineId": "med_18",
+      "batchId": "bat_29",
+      "type": "ADJUSTMENT_INCREASE",
+      "quantityChange": 10,
+      "date": "2026-09-26T10:59:00.000Z",
+      "reason": "COUNT_CORRECTION",
+      "remarks": "Physical count found an extra box",
+      "quantityAfter": 50
+    },
+    {
+      "id": "txn_22",
+      "medicineId": "med_24",
+      "batchId": "bat_37",
+      "type": "BATCH_CREATED",
+      "quantityChange": 45,
+      "date": "2026-10-01T03:40:00.000Z",
+      "quantityAfter": 45
+    },
+    {
+      "id": "txn_23",
+      "medicineId": "med_05",
+      "batchId": "bat_09",
+      "type": "STOCK_IN",
+      "quantityChange": 100,
+      "date": "2026-10-01T12:23:00.000Z",
+      "remarks": "Seasonal demand top-up",
+      "quantityAfter": 250
+    },
+    {
+      "id": "txn_24",
+      "medicineId": "med_14",
+      "batchId": "bat_24",
+      "type": "STOCK_IN",
+      "quantityChange": 50,
+      "date": "2026-10-06T05:34:00.000Z",
+      "quantityAfter": 200
+    },
+    {
+      "id": "txn_25",
+      "medicineId": "med_21",
+      "batchId": "bat_33",
+      "type": "ADJUSTMENT_DECREASE",
+      "quantityChange": -8,
+      "date": "2026-10-09T12:57:00.000Z",
+      "reason": "DAMAGED",
+      "remarks": "Strips crushed in transit",
+      "quantityAfter": 32
+    },
+    {
+      "id": "txn_26",
+      "medicineId": "med_01",
+      "batchId": "bat_03",
+      "type": "ADJUSTMENT_INCREASE",
+      "quantityChange": 10,
+      "date": "2026-10-11T08:43:00.000Z",
+      "reason": "RETURNED",
+      "remarks": "Unopened strips returned by customer",
+      "quantityAfter": 310
+    },
+    {
+      "id": "txn_27",
+      "medicineId": "med_08",
+      "batchId": "bat_15",
+      "type": "STOCK_IN",
+      "quantityChange": 100,
+      "date": "2026-10-16T12:46:00.000Z",
+      "quantityAfter": 350
+    },
+    {
+      "id": "txn_28",
+      "medicineId": "med_20",
+      "batchId": "bat_32",
+      "type": "STOCK_IN",
+      "quantityChange": 40,
+      "date": "2026-10-19T08:37:00.000Z",
+      "quantityAfter": 200
+    },
+    {
+      "id": "txn_29",
+      "medicineId": "med_06",
+      "batchId": "bat_10",
+      "type": "ADJUSTMENT_DECREASE",
+      "quantityChange": -20,
+      "date": "2026-10-21T09:18:00.000Z",
+      "reason": "EXPIRED_DISPOSED",
+      "remarks": "Handed to biomedical waste vendor",
+      "quantityAfter": 30
+    },
+    {
+      "id": "txn_30",
+      "medicineId": "med_23",
+      "batchId": "bat_36",
+      "type": "STOCK_IN",
+      "quantityChange": 30,
+      "date": "2026-10-23T09:05:00.000Z",
+      "quantityAfter": 90
+    }
+  ]
+}

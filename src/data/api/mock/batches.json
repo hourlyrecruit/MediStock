@@ -1,0 +1,384 @@
+{
+  "data": [
+    {
+      "id": "bat_01",
+      "medicineId": "med_01",
+      "batchNumber": "PCM-2505-A",
+      "openingQuantity": 30,
+      "quantity": 30,
+      "expiryDate": "2026-10-30",
+      "receivedDate": "2025-05-09",
+      "createdAt": "2025-05-09T04:30:00.000Z"
+    },
+    {
+      "id": "bat_02",
+      "medicineId": "med_01",
+      "batchNumber": "PCM-2509-B",
+      "openingQuantity": 80,
+      "quantity": 80,
+      "expiryDate": "2026-11-26",
+      "receivedDate": "2025-09-06",
+      "createdAt": "2025-09-06T04:30:00.000Z"
+    },
+    {
+      "id": "bat_03",
+      "medicineId": "med_01",
+      "batchNumber": "PCM-2607-C",
+      "openingQuantity": 0,
+      "quantity": 310,
+      "expiryDate": "2028-04-23",
+      "receivedDate": "2026-07-03",
+      "createdAt": "2026-07-03T07:50:00.000Z"
+    },
+    {
+      "id": "bat_04",
+      "medicineId": "med_02",
+      "batchNumber": "IBU-2503-A",
+      "openingQuantity": 45,
+      "quantity": 45,
+      "expiryDate": "2026-10-19",
+      "receivedDate": "2025-03-10",
+      "createdAt": "2025-03-10T04:30:00.000Z"
+    },
+    {
+      "id": "bat_05",
+      "medicineId": "med_02",
+      "batchNumber": "IBU-2603-B",
+      "openingQuantity": 180,
+      "quantity": 180,
+      "expiryDate": "2027-08-27",
+      "receivedDate": "2026-03-05",
+      "createdAt": "2026-03-05T04:30:00.000Z"
+    },
+    {
+      "id": "bat_06",
+      "medicineId": "med_03",
+      "batchNumber": "DCL-2606-A",
+      "openingQuantity": 0,
+      "quantity": 40,
+      "expiryDate": "2026-12-01",
+      "receivedDate": "2026-06-03",
+      "createdAt": "2026-06-03T07:26:00.000Z"
+    },
+    {
+      "id": "bat_07",
+      "medicineId": "med_04",
+      "batchNumber": "ACF-2601-A",
+      "openingQuantity": 90,
+      "quantity": 90,
+      "expiryDate": "2027-05-19",
+      "receivedDate": "2026-01-04",
+      "createdAt": "2026-01-04T04:30:00.000Z"
+    },
+    {
+      "id": "bat_08",
+      "medicineId": "med_05",
+      "batchNumber": "AMX-2506-A",
+      "openingQuantity": 60,
+      "quantity": 60,
+      "expiryDate": "2026-11-01",
+      "receivedDate": "2025-06-18",
+      "createdAt": "2025-06-18T04:30:00.000Z"
+    },
+    {
+      "id": "bat_09",
+      "medicineId": "med_05",
+      "batchNumber": "AMX-2608-B",
+      "openingQuantity": 0,
+      "quantity": 250,
+      "expiryDate": "2027-10-31",
+      "receivedDate": "2026-08-02",
+      "createdAt": "2026-08-02T04:17:00.000Z"
+    },
+    {
+      "id": "bat_10",
+      "medicineId": "med_06",
+      "batchNumber": "AZT-2605-A",
+      "openingQuantity": 0,
+      "quantity": 30,
+      "expiryDate": "2026-10-06",
+      "receivedDate": "2026-05-24",
+      "createdAt": "2026-05-24T08:48:00.000Z"
+    },
+    {
+      "id": "bat_11",
+      "medicineId": "med_06",
+      "batchNumber": "AZT-2411-B",
+      "openingQuantity": 24,
+      "quantity": 24,
+      "expiryDate": "2026-09-01",
+      "receivedDate": "2024-11-30",
+      "createdAt": "2024-11-30T04:30:00.000Z"
+    },
+    {
+      "id": "bat_12",
+      "medicineId": "med_07",
+      "batchNumber": "CFX-2608-A",
+      "openingQuantity": 0,
+      "quantity": 120,
+      "expiryDate": "2028-01-24",
+      "receivedDate": "2026-08-17",
+      "createdAt": "2026-08-17T07:10:00.000Z"
+    },
+    {
+      "id": "bat_13",
+      "medicineId": "med_08",
+      "batchNumber": "MET-2408-A",
+      "openingQuantity": 40,
+      "quantity": 40,
+      "expiryDate": "2026-07-28",
+      "receivedDate": "2024-08-22",
+      "createdAt": "2024-08-22T04:30:00.000Z"
+    },
+    {
+      "id": "bat_14",
+      "medicineId": "med_08",
+      "batchNumber": "MET-2605-B",
+      "openingQuantity": 0,
+      "quantity": 450,
+      "expiryDate": "2027-12-05",
+      "receivedDate": "2026-05-24",
+      "createdAt": "2026-05-24T10:30:00.000Z"
+    },
+    {
+      "id": "bat_15",
+      "medicineId": "med_08",
+      "batchNumber": "MET-2609-C",
+      "openingQuantity": 0,
+      "quantity": 350,
+      "expiryDate": "2028-06-22",
+      "receivedDate": "2026-09-16",
+      "createdAt": "2026-09-16T12:39:00.000Z"
+    },
+    {
+      "id": "bat_16",
+      "medicineId": "med_09",
+      "batchNumber": "GLM-2509-A",
+      "openingQuantity": 35,
+      "quantity": 35,
+      "expiryDate": "2026-11-30",
+      "receivedDate": "2025-09-26",
+      "createdAt": "2025-09-26T04:30:00.000Z"
+    },
+    {
+      "id": "bat_17",
+      "medicineId": "med_10",
+      "batchNumber": "SIT-2512-A",
+      "openingQuantity": 70,
+      "quantity": 70,
+      "expiryDate": "2027-07-28",
+      "receivedDate": "2025-12-05",
+      "createdAt": "2025-12-05T04:30:00.000Z"
+    },
+    {
+      "id": "bat_18",
+      "medicineId": "med_11",
+      "batchNumber": "AML-2503-A",
+      "openingQuantity": 40,
+      "quantity": 40,
+      "expiryDate": "2026-11-05",
+      "receivedDate": "2025-03-10",
+      "createdAt": "2025-03-10T04:30:00.000Z"
+    },
+    {
+      "id": "bat_19",
+      "medicineId": "med_11",
+      "batchNumber": "AML-2606-B",
+      "openingQuantity": 0,
+      "quantity": 280,
+      "expiryDate": "2028-08-11",
+      "receivedDate": "2026-06-13",
+      "createdAt": "2026-06-13T04:42:00.000Z"
+    },
+    {
+      "id": "bat_20",
+      "medicineId": "med_12",
+      "batchNumber": "ATV-2405-A",
+      "openingQuantity": 18,
+      "quantity": 18,
+      "expiryDate": "2026-06-03",
+      "receivedDate": "2024-05-14",
+      "createdAt": "2024-05-14T04:30:00.000Z"
+    },
+    {
+      "id": "bat_21",
+      "medicineId": "med_12",
+      "batchNumber": "ATV-2605-B",
+      "openingQuantity": 0,
+      "quantity": 240,
+      "expiryDate": "2028-09-30",
+      "receivedDate": "2026-05-14",
+      "createdAt": "2026-05-14T07:16:00.000Z"
+    },
+    {
+      "id": "bat_22",
+      "medicineId": "med_13",
+      "batchNumber": "TLM-2508-A",
+      "openingQuantity": 25,
+      "quantity": 25,
+      "expiryDate": "2026-11-12",
+      "receivedDate": "2025-08-07",
+      "createdAt": "2025-08-07T04:30:00.000Z"
+    },
+    {
+      "id": "bat_23",
+      "medicineId": "med_14",
+      "batchNumber": "CTZ-2506-A",
+      "openingQuantity": 30,
+      "quantity": 30,
+      "expiryDate": "2026-10-31",
+      "receivedDate": "2025-06-18",
+      "createdAt": "2025-06-18T04:30:00.000Z"
+    },
+    {
+      "id": "bat_24",
+      "medicineId": "med_14",
+      "batchNumber": "CTZ-2607-B",
+      "openingQuantity": 0,
+      "quantity": 200,
+      "expiryDate": "2027-09-26",
+      "receivedDate": "2026-07-13",
+      "createdAt": "2026-07-13T11:11:00.000Z"
+    },
+    {
+      "id": "bat_25",
+      "medicineId": "med_15",
+      "batchNumber": "LVM-2509-A",
+      "openingQuantity": 110,
+      "quantity": 110,
+      "expiryDate": "2027-03-30",
+      "receivedDate": "2025-09-26",
+      "createdAt": "2025-09-26T04:30:00.000Z"
+    },
+    {
+      "id": "bat_26",
+      "medicineId": "med_16",
+      "batchNumber": "FXF-2511-A",
+      "openingQuantity": 20,
+      "quantity": 20,
+      "expiryDate": "2027-06-28",
+      "receivedDate": "2025-11-15",
+      "createdAt": "2025-11-15T04:30:00.000Z"
+    },
+    {
+      "id": "bat_27",
+      "medicineId": "med_17",
+      "batchNumber": "PAN-2411-A",
+      "openingQuantity": 12,
+      "quantity": 12,
+      "expiryDate": "2026-10-28",
+      "receivedDate": "2024-11-10",
+      "createdAt": "2024-11-10T04:30:00.000Z"
+    },
+    {
+      "id": "bat_28",
+      "medicineId": "med_17",
+      "batchNumber": "PAN-2606-B",
+      "openingQuantity": 0,
+      "quantity": 320,
+      "expiryDate": "2028-03-14",
+      "receivedDate": "2026-06-23",
+      "createdAt": "2026-06-23T08:28:00.000Z"
+    },
+    {
+      "id": "bat_29",
+      "medicineId": "med_18",
+      "batchNumber": "OMZ-2607-A",
+      "openingQuantity": 0,
+      "quantity": 50,
+      "expiryDate": "2027-11-15",
+      "receivedDate": "2026-07-23",
+      "createdAt": "2026-07-23T10:27:00.000Z"
+    },
+    {
+      "id": "bat_30",
+      "medicineId": "med_19",
+      "batchNumber": "OND-2510-A",
+      "openingQuantity": 65,
+      "quantity": 65,
+      "expiryDate": "2026-11-19",
+      "receivedDate": "2025-10-16",
+      "createdAt": "2025-10-16T04:30:00.000Z"
+    },
+    {
+      "id": "bat_31",
+      "medicineId": "med_20",
+      "batchNumber": "VD3-2501-A",
+      "openingQuantity": 22,
+      "quantity": 22,
+      "expiryDate": "2026-09-21",
+      "receivedDate": "2025-01-19",
+      "createdAt": "2025-01-19T04:30:00.000Z"
+    },
+    {
+      "id": "bat_32",
+      "medicineId": "med_20",
+      "batchNumber": "VD3-2608-B",
+      "openingQuantity": 0,
+      "quantity": 200,
+      "expiryDate": "2028-06-22",
+      "receivedDate": "2026-08-07",
+      "createdAt": "2026-08-07T11:17:00.000Z"
+    },
+    {
+      "id": "bat_33",
+      "medicineId": "med_21",
+      "batchNumber": "FER-2608-A",
+      "openingQuantity": 0,
+      "quantity": 32,
+      "expiryDate": "2027-12-25",
+      "receivedDate": "2026-08-27",
+      "createdAt": "2026-08-27T06:56:00.000Z"
+    },
+    {
+      "id": "bat_34",
+      "medicineId": "med_22",
+      "batchNumber": "B12-2509-A",
+      "openingQuantity": 90,
+      "quantity": 90,
+      "expiryDate": "2027-04-29",
+      "receivedDate": "2025-09-06",
+      "createdAt": "2025-09-06T04:30:00.000Z"
+    },
+    {
+      "id": "bat_35",
+      "medicineId": "med_23",
+      "batchNumber": "SAL-2510-A",
+      "openingQuantity": 8,
+      "quantity": 8,
+      "expiryDate": "2026-10-31",
+      "receivedDate": "2025-10-16",
+      "createdAt": "2025-10-16T04:30:00.000Z"
+    },
+    {
+      "id": "bat_36",
+      "medicineId": "med_23",
+      "batchNumber": "SAL-2609-B",
+      "openingQuantity": 0,
+      "quantity": 90,
+      "expiryDate": "2028-02-23",
+      "receivedDate": "2026-09-06",
+      "createdAt": "2026-09-06T12:15:00.000Z"
+    },
+    {
+      "id": "bat_37",
+      "medicineId": "med_24",
+      "batchNumber": "MTK-2610-A",
+      "openingQuantity": 0,
+      "quantity": 45,
+      "expiryDate": "2027-10-26",
+      "receivedDate": "2026-10-01",
+      "createdAt": "2026-10-01T03:40:00.000Z"
+    },
+    {
+      "id": "bat_38",
+      "medicineId": "med_25",
+      "batchNumber": "BUD-2602-A",
+      "openingQuantity": 45,
+      "quantity": 45,
+      "expiryDate": "2027-02-28",
+      "receivedDate": "2026-02-13",
+      "createdAt": "2026-02-13T04:30:00.000Z"
+    }
+  ]
+}
